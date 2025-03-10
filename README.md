@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, MySQL, PHP, HTML, Bash, Ethical Hacking, Cybersecurity**
 
-- 📄 Know about my experiences [Ethical hacking, cybersecurity & VoIP enthusiast.](Ethical hacking, cybersecurity & VoIP enthusiast.)
+- 📄 Know about my experiences **[Ethical hacking, cybersecurity & VoIP enthusiast.]**
 
 - ⚡ Fun fact **🎵 **I love listening to music while working!** 🎶**
 
